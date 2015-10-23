@@ -24,3 +24,23 @@
  	color:black;
  }
 
+#approval  {
+	color:white;
+}
+
+#approval p {
+	color:white;
+}
+
+@media screen and (max-width: 480px) {
+    #logo_text {
+	font-size: 20px;
+}
+}
+
+@media screen and (min-width: 727px) {
+    #logo_text {
+	font-size: 2em;
+}
+}
+
